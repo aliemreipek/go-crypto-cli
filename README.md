@@ -42,7 +42,7 @@ This project demonstrates the following Golang concepts:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/aliemreipek/go-crypto-cli.git](https://github.com/aliemreipek/go-crypto-cli.git)
+git clone https://github.com/aliemreipek/go-crypto-cli.git
 cd go-crypto-cli
 
 # Run
